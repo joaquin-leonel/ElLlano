@@ -3,7 +3,7 @@
 
 # Sitio web. 
 
-![image](https://github.com/joaquin-leonel/ElLlano/blob/master/public/media/elLlanoBanner.png)
+![image](https://github.com/joaquin-leonel/ElLlano/blob/master/media/elLlanoBanner.png)
 
 ### Realizado en:
 
