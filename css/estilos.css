@@ -249,6 +249,11 @@ margin-left: 5rem;
 .historia{
   margin-top: 2rem ;
 }
+
+.historiaContent{
+  display:flex ;
+}
+
 .videoHistoria{
   display: flex;
   justify-content: center;
@@ -259,6 +264,15 @@ margin-left: 5rem;
   color:white;
   font-weight: 300;
 }
+
+.TextoContacto{
+  margin-top: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+  font-weight: 300;
+  padding-bottom: .5rem;
+}
+
 
 .tituloQuienes{
   margin-top: 80px;
@@ -328,6 +342,30 @@ margin-left: 5rem;
 }
 
 
+.btnEnviar{
+  border-color:white !important;
+  background-color: white !important;
+  color:#00A79D !important;
+  
+}
+
+.contactoBox{
+margin-top: 10rem;
+}
+
+.quienesBox{
+  padding-top: 40px; margin-top: -40px
+
+
+}
+
+
+.caroucelCentrado{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 17rem;
+}
 /*---------------------------Responsive---------------------------*/
 @media (max-width:1340px){
   .text-landing{
@@ -402,6 +440,13 @@ margin-left: 5rem;
     right:0%;
     
   }
+
+  .caroucelCentrado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+  }
 }
 
 @media (max-width:1027px) {
@@ -450,6 +495,15 @@ margin-left: 5rem;
   .card-body{
     margin: 0;
   }
+
+
+
+
+  .carouselSize {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+}
 }
 
 
@@ -505,5 +559,10 @@ margin-left: 5rem;
   .p-logo{
     padding-left: 0;
     text-align: center;
+  }
+
+  .w-80{
+    width: 124% !important;
+    margin-left: -1rem;
   }
 }

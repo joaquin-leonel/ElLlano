@@ -31,7 +31,9 @@ document.getElementById("footer").innerHTML =
     </div>
 
   <div class="footerInfo">
-    <p class="pFooter">Dirección: lorem ipsum - Santiago de Chile -  Tel: 11-12345678 - Email: info@elllano.com.cl</p>
+    <p class="pFooter">Dirección: Amalia Errazuriz 2950 -  Santiago de Chile – 
+    Tel: +56 9 4668 2688 
+    Correo: contacto@escaleraselllano.cl</p>
   </div>`;
 
 
